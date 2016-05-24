@@ -1,4 +1,4 @@
 # Dynamic-Git-Example-Test
 Test
 "Change"
-"Conflicting change with experimental-test"
+"Change to experimental-test only"
